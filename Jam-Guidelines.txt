@@ -3,7 +3,7 @@ You will have exactly 4 hours from theme announcement to work.
 You must make SOMETHING in this 4 hours. What that something is is up to you.
 You may work in teams or alone.
 	You are welcome to contribute to multiple projects (e.g. producing audio for multiple projects)
-You don't have to explicitly follow the theme, but you'll have to justify how your project relates to the theme, or your train of thought that led you from the theme to your project.
+You don't have to explicitly follow the theme, the theme is there as a jumping off point if you have an idea to start with.
 Any and all assets are free game. You don't have to make everything in your project yourself.
 	If you have any base-code you are starting from, you are encouraged to share it on 4hourjam.com before the jam starts, or include it in your project post.
 You are encouraged to open-source your project when possible.
